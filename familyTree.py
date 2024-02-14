@@ -1,16 +1,4 @@
 # Samuel Nerayo
-# HW2-Python Assignment 2 -- Family Trees
-
-'''
-The Python file you submit should have a comment block at the beginning
-that includes your name and a copy of the text from the syllabus
-about originality of code to indicate your assertion that you
-have written what you are submitting, beyond the started code
-in the descendants.py file.  Your new code should use appropriate
-variables names and adequate comments to make it readable.
-Matching the comment density in descendants.py is sufficient.
-'''
-
 
 
 """
